@@ -4,7 +4,7 @@ This application allows a user to play Tic Tac Toe against a computer that makes
 
 The system is built using structured programming principles with clear separation of concerns through reusable functions.
 
-Decision Strategy...
+🧠 AI Decision Strategy
 
 The computer follows a deterministic priority model:
 
